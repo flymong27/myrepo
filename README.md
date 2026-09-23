@@ -1,9 +1,5 @@
-# myrepo
-
-oss repo
-
-
-
+# 학번: 20231347
+# 이름: 정준영
 flymong27 첫번쨰 커밋
 
 hello.py 실행방법
